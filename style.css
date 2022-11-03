@@ -1,0 +1,31 @@
+body {
+  background: #0F2027;  
+  background: -webkit-linear-gradient(to right, #e1786a, #b13737, #0F2027);  
+  background: linear-gradient(to right, #e1786a, #203A43, #0F2027);
+}
+
+.clock {
+    position: absolute;
+    top: 30%;
+    right: 37%;
+    border: none;
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 7px;
+   background-color: transparent;
+}
+
+
+  
+  #counter {
+    display: inline;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    background: transparent;
+    font-family: 'Orbitron', sans-serif;;
+    font-size: 18pt;
+    color: #17D4FE;
+  }
+  
