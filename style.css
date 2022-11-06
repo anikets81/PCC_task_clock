@@ -1,9 +1,8 @@
 body {
-  background: #0F2027;  
-  background: -webkit-linear-gradient(to right, #e1786a, #b13737, #0F2027);  
-  background: linear-gradient(to right, #e1786a, #203A43, #0F2027);
+  background: #bdc3c7; 
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
+  background: linear-gradient(to right, #2c3e50, #bdc3c7); 
 }
-
 .clock {
     position: absolute;
     top: 30%;
