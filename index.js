@@ -38,12 +38,13 @@ button.onclick = function()
 
   if(count%2!=0)
   {
-    document.getElementById("MyClockDisplay").style.color =  "#eb5757";
-    document.getElementById("counter").style.color = "#11998e";
+    document.getElementById("MyClockDisplay").style.color =  "#E94057";
+    document.getElementById("counter").style.color = "#78ffd6";
   }
   else
   {
-    document.getElementById("MyClockDisplay").style.color = "#11998e"; 
-    document.getElementById("counter").style.color = "#eb5757"; 
+    document.getElementById("MyClockDisplay").style.color = "#78ffd6"; 
+    document.getElementById("counter").style.color = "#E94057"; 
   }
 };
+ 
